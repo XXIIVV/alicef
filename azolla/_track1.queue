@@ -1,17 +1,15 @@
 # ============================================================== TRACK 1
 select:32;1;1;1
-write:# ALICEF       AZOLLA #
+write:# ALICEF         AZOLLA #
 select:32;2
-write:# TRACK        1 OF 4 #
+write:# TRACK          1 OF 4 #
 select:32;3
-write:# BELDAM         2019 #
+write:# BELDAM           2019 #
 
 select:0;0
 inject:pat1
 select:0;8
 inject:intro
-
-
 
 
 
@@ -440,9 +438,6 @@ write:G
 
 
 
-select:0;8;33;17
-erase
-inject:soil
 
 
 
@@ -451,21 +446,6 @@ inject:soil
 
 
 
-select:3;1
-write:D
-select:9;1
-write:F
-select:16;1
-write:A
-select:56;8
-
-
-
-
-
-
-select:24;8;33;17
-erase
 
 
 
@@ -474,15 +454,6 @@ erase
 
 
 
-inject:belt
-
-
-
-
-select:48;8;33;17
-erase
-select:42;8
-inject:crystal
 
 
 
@@ -490,8 +461,332 @@ inject:crystal
 
 
 
-select:64;8
-inject:echo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+select:0;8;83;18
+copy
+select:8;8;1;1
+paste
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+select:16;8;1;1
+paste
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+select:32;8;1;1
+paste
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+select:48;8;1;1
+paste
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+select:2;10;1;1
+paste
+
+select:4;12;1;1
+paste
+
+select:6;14;1;1
+paste
+
+select:8;14;1;1
+paste
+
+select:10;16;1;1
+paste
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
