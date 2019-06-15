@@ -1041,26 +1041,11 @@ erase
 
 
 
-select:2;10;1;1
+select:6;18;1;1
 paste
 
 
-select:10;8;1;1
-paste
-
-
-
-
-
-
-
-
-
-
-
-
-
-select:30;10;1;1
+select:16;2;1;1
 paste
 
 
@@ -1075,12 +1060,27 @@ paste
 
 
 
+select:32;16;1;1
+paste
 
 
 
 
 
-select:42;12;1;1
+
+
+
+
+
+
+
+
+
+
+
+
+
+select:22;16;1;1
 paste
 
 
@@ -1551,52 +1551,27 @@ paste
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+select:30;14;1;1
+paste
+select:32;6;1;1
+paste
+select:48;16;1;1
+paste
+select:24;4;1;1
+paste
+select:20;12;1;1
+paste
+select:32;24;1;1
+paste
+select:22;6;1;1
+paste
+select:16;34;1;1
+paste
+select:4;42;1;1
+paste
 select:0;0;100;100
 erase
+select:0;0;1;1
 # ============================================================== TRACK 3
 select:32;1;1;1
 write:# ALICEF         AZOLLA #
@@ -2440,7 +2415,7 @@ inject:suspense
 
 
 
-select:16;8
+select:16;8;1;1
 inject:hammer
 
 
@@ -2501,7 +2476,7 @@ inject:hammer
 
 
 
-select:48;8
+select:40;8;1;1
 inject:filler
 
 
@@ -2533,7 +2508,7 @@ inject:filler
 
 
 
-select:64;8
+select:64;8;1;1
 inject:hood
 
 
@@ -2562,7 +2537,7 @@ inject:hood
 
 
 
-select:0;0
+select:0;0;1;1
 inject:pat1
 
 
@@ -2591,7 +2566,7 @@ inject:pat1
 
 
 
-select:16;8
+select:16;8;1;1
 inject:temple
 
 
@@ -2631,7 +2606,7 @@ inject:temple
 
 
 
-select:40;8
+select:40;8;1;1
 inject:beat
 
 
@@ -2717,7 +2692,7 @@ inject:beat
 
 
 
-select:64;8
+select:64;8;1;1
 inject:touch
 
 
@@ -2777,7 +2752,7 @@ inject:touch
 
 
 
-select:0;8
+select:0;8;1;1
 inject:hut
 
 
@@ -2874,6 +2849,7 @@ paste
 select:0;8;83;18
 erase
 paste
+select:8;0;1;1
 
 
 
@@ -2881,8 +2857,7 @@ paste
 
 
 
-
-select:8;0;83;18
+select:8;0;1;1
 paste
 
 
@@ -2907,36 +2882,7 @@ paste
 
 
 
-select:16;0;83;18
-paste
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-select:24;8;83;18
+select:16;0;1;1
 paste
 
 
@@ -2965,10 +2911,39 @@ paste
 
 
 
+select:24;8;1;1
+paste
 
 
 
-select:32;16;83;18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+select:32;16;1;1
 paste
 
 
@@ -3184,6 +3159,31 @@ paste
 
 
 
+
+
+
+
+select:30;14;1;1
+paste
+select:32;6;1;1
+paste
+select:48;16;1;1
+paste
+select:24;4;1;1
+paste
+select:20;12;1;1
+paste
+select:32;24;1;1
+paste
+select:22;6;1;1
+paste
+select:16;34;1;1
+paste
+select:4;42;1;1
+paste
+select:0;0;100;100
+erase
+select:0;0;1;1
 
 
 
